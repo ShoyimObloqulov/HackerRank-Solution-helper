@@ -16,8 +16,7 @@ $$
    A_{M,1} & A_{M,2} & \cdots & A_{M,N} \\\
   \end{array} } \right |
 $$
-```
-Determinants  
+``` 
 $$
   \left| {\begin{array}{cc|c|c}
    A_{1,1} & A_{1,2} & \cdots & A_{1,N}\\\
@@ -36,7 +35,6 @@ g'(E) &= \sum_{k\cdot i \le E} \nabla g(i)
 \end{align*}$$ 
 
 ```
-System of Equations 
 $$\begin{align*}
 g'(E) &= \sum_{k=1}^E g\left(\left\lfloor E/k \right\rfloor\right) \\\
 g'(E) &= \sum_{k=1}^E \sum_{i=1}^{\lfloor E/k \rfloor} \nabla g(i) \\\
