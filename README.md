@@ -4,5 +4,5 @@
 + <i>Italic</i> text yozish uchun <code>_text_</code> 
 + Bo'sh joy tashlash uchun `<pre>` tegidan foydalanish mumkin.
 + Taqoslash belgilari <b>≤, ≥</b> `&le; &ge;`
-+ Darajaga olish va indexga tushurish uchun <code><sub></code> va <code><sup></code>dan foydalish mumkin
-+ Boshqa belgilarni ham qo'lash mumkin: <code>*, | , _ va h.k</code>
++ Darajaga olish va indexga tushurish uchun `<sub>` va `<sup>`dan foydalish mumkin
++ Boshqa belgilarni ham qo'lash mumkin: <code>*, | , _ </code> va h.k
