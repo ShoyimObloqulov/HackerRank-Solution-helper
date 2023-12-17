@@ -7,6 +7,7 @@
 + Darajaga olish va indexga tushurish uchun `<sub>` va `<sup>`dan foydalish mumkin
 + Boshqa belgilarni ham qo'lash mumkin: <code>*, | , _ </code> va h.k
 + Qandaydir formulalarni belgilash uchun `<code></code>` tagdan foydalanish mumkin
++ Boshqa matematik amallar yozilishini bilish uchun <a href="https://www.overleaf.com/learn/latex/Mathematical_expressions">Latexga<a> o'ting.
 ### Murakab ifodalar bilan ishlash
 ## Determinants  
 $$
